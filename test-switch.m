@@ -1,0 +1,12 @@
+
+
+
+
+-(void) testSwitchStmnt {
+
+   switch (  value  ) {
+   }
+
+}
+
+

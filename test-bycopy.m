@@ -1,0 +1,4 @@
+
+-(bycopy char) testByCopy  {
+
+}

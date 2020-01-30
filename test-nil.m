@@ -1,0 +1,6 @@
+
+-(void) testNil {
+  
+   vptr = nil;
+
+}

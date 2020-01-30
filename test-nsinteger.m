@@ -1,0 +1,6 @@
+
+
+-(NSInteger) testNSInteger {
+
+}
+

@@ -1,0 +1,5 @@
+
+
+-(MyType  *) pointerDeclTest { 
+   int *ptr; 
+}

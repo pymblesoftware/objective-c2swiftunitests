@@ -1,0 +1,9 @@
+
+
+-(void) testIncremental {
+
+ zzz++; 
+
+ --xyz;
+
+}

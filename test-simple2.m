@@ -1,0 +1,6 @@
+
+-(myType) testSimple  {  
+
+}
+
+

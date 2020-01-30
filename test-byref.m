@@ -1,0 +1,4 @@
+
+-(byref someType) testByRef {
+
+}

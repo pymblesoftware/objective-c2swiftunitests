@@ -1,0 +1,3 @@
+-(void) testMyClass {
+  MyClass abc; 
+}

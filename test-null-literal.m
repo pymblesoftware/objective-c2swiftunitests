@@ -1,0 +1,6 @@
+
+
+-(void) testNULL {
+    vptr = NULL;
+
+}

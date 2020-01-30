@@ -1,0 +1,3 @@
+-(void) testMyClass {
+  ViewController *vc; 
+}

@@ -1,0 +1,7 @@
+
+
+-(BOOL) testYes {
+
+   return YES;
+
+}

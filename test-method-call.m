@@ -1,0 +1,4 @@
+
+
+
+-(void) testMethodCall { [ obj method ]; }
